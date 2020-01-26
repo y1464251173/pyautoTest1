@@ -1,7 +1,7 @@
 import unittest
 from time import sleep
 from selenium import webdriver
-from .baidu_page import BaiduPage
+from baidu_page import BaiduPage
 
 
 class TestBaidu(unittest.TestCase):
